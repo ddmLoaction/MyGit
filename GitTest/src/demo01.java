@@ -4,4 +4,8 @@ public class demo01 {
         * */
         System.out.println("fun1........");
     }
+
+    public void fun2(){
+        System.out.println("这是分支mygit。。。。");
+    }
 }
